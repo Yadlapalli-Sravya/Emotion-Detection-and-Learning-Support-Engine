@@ -1,0 +1,16 @@
+```txt
+streamlit==1.46.1
+tensorflow==2.17.0
+keras==3.5.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.3
+plotly==6.2.0
+nltk==3.9.1
+regex==2024.11.6
+protobuf==4.25.8
+h5py==3.14.0
+joblib==1.5.1
+pickle-mixin==1.0.2
+```
