@@ -11,6 +11,3 @@ Emotion-Detection-Learning-Support/
 ├── 6.Project Testing/
 ├── 7.Project Documentation/
 ├── 8.Project Demonstration/
-
-Project repository link is in 
-7.Project Documentation/Project Executable Files
